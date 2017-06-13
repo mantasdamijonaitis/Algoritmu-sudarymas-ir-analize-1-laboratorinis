@@ -1,0 +1,73 @@
+InsertionSort masyvas vidine atmintis:
+1000 elementu 4ms
+2000 elementu 18ms
+3000 elementu 39ms
+4000 elementu 69ms
+5000 elementu 110ms
+
+InsertionSort sarasas vidine atmintis:
+1000 elementu 9ms
+2000 elementu 33ms
+3000 elementu 73ms
+4000 elementu 134ms
+5000 elementu 203ms
+
+CountingSort masyvas vidine atmintis:
+1000000 elementu 13ms
+2000000 elementu 27ms
+3000000 elementu 39ms
+4000000 elementu 53ms
+5000000 elementu 67ms
+
+CountingSort sarasas vidine atmintis:
+10000 elementu 650ms
+20000 elementu 2612ms
+30000 elementu 5801ms
+40000 elementu 10129ms
+50000 elementu 15783ms
+
+Maisos lentele, vidine atmintis:
+
+100000 elementu 29ms
+200000 elementu 94ms
+300000 elementu 118ms
+400000 elementu 157ms
+500000 elementu 204ms
+
+//////////////////////////////////////
+
+InsertionSort masyvas isorine atmintis:
+100 elementu 32ms
+200 elementu 133ms
+300 elementu 290ms
+400 elementu 534ms
+500 elementu 845ms
+
+InsertionSort sarasas isorine atmintis:
+1000 elementu 7ms
+2000 elementu 22ms
+3000 elementu 36ms
+4000 elementu 58ms
+5000 elementu 86ms
+
+CountingSort masyvas isorine atmintis:
+1000 elementu 32ms
+2000 elementu 49ms
+3000 elementu 69ms
+4000 elementu 84ms
+5000 elementu 100ms
+
+CountingSort sarasas isorine atmintis:
+10000 elementu 58ms
+20000 elementu 115ms
+30000 elementu 179ms
+40000 elementu 235ms
+50000 elementu 293ms
+
+Maisos lentele, isorine atmintis:
+
+100 elementu 85ms
+200 elementu 165ms
+300 elementu 252ms
+400 elementu 335ms
+500 elementu 386ms

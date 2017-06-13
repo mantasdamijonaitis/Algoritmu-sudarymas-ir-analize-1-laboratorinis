@@ -1,0 +1,18 @@
+c:\users\mandam2\documents\visual studio 2015\Projects\AlgorithmAnalisis\AlgorithmAnalisis\bin\Debug\AlgorithmAnalisis.exe.config
+c:\users\mandam2\documents\visual studio 2015\Projects\AlgorithmAnalisis\AlgorithmAnalisis\bin\Debug\AlgorithmAnalisis.exe
+c:\users\mandam2\documents\visual studio 2015\Projects\AlgorithmAnalisis\AlgorithmAnalisis\bin\Debug\AlgorithmAnalisis.pdb
+c:\users\mandam2\documents\visual studio 2015\Projects\AlgorithmAnalisis\AlgorithmAnalisis\obj\Debug\AlgorithmAnalisis.csprojResolveAssemblyReference.cache
+c:\users\mandam2\documents\visual studio 2015\Projects\AlgorithmAnalisis\AlgorithmAnalisis\obj\Debug\AlgorithmAnalisis.exe
+c:\users\mandam2\documents\visual studio 2015\Projects\AlgorithmAnalisis\AlgorithmAnalisis\obj\Debug\AlgorithmAnalisis.pdb
+C:\programming\Learning\AlgorithmAnalisis\AlgorithmAnalisis\bin\Debug\AlgorithmAnalisis.exe.config
+C:\programming\Learning\AlgorithmAnalisis\AlgorithmAnalisis\obj\Debug\AlgorithmAnalisis.exe
+C:\programming\Learning\AlgorithmAnalisis\AlgorithmAnalisis\obj\Debug\AlgorithmAnalisis.pdb
+C:\programming\Learning\AlgorithmAnalisis\AlgorithmAnalisis\bin\Debug\AlgorithmAnalisis.exe
+C:\programming\Learning\AlgorithmAnalisis\AlgorithmAnalisis\bin\Debug\AlgorithmAnalisis.pdb
+C:\programming\Learning\AlgorithmAnalisis\AlgorithmAnalisis\obj\Debug\AlgorithmAnalisis.csprojResolveAssemblyReference.cache
+C:\Users\mantas.damijonaitis\Desktop\proj\AlgorithmAnalisis\bin\Debug\AlgorithmAnalisis.exe.config
+C:\Users\mantas.damijonaitis\Desktop\proj\AlgorithmAnalisis\obj\Debug\AlgorithmAnalisis.exe
+C:\Users\mantas.damijonaitis\Desktop\proj\AlgorithmAnalisis\obj\Debug\AlgorithmAnalisis.pdb
+C:\Users\mantas.damijonaitis\Desktop\proj\AlgorithmAnalisis\bin\Debug\AlgorithmAnalisis.exe
+C:\Users\mantas.damijonaitis\Desktop\proj\AlgorithmAnalisis\bin\Debug\AlgorithmAnalisis.pdb
+C:\Users\mantas.damijonaitis\Desktop\proj\AlgorithmAnalisis\obj\Debug\AlgorithmAnalisis.csprojResolveAssemblyReference.cache
